@@ -1,5 +1,5 @@
 # Animation Transfer
-Python script for transfering an animation from one skeleton to another.
+Python script for transfering an animation from one skeleton to another. Complete with UI.
 School Assignment at BTH.
 
 Some things to consider:
