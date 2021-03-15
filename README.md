@@ -1,4 +1,4 @@
-# AnimationTransfer
+# Animation Transfer
 Python script for transfering an animation from one skeleton to another.
 School Assignment at BTH.
 
